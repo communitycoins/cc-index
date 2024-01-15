@@ -22,6 +22,8 @@ These teams actively contributed and or endorse community coins but the nature o
 ### In consideration 
 [Bolicoin-BOLI](https://bolis.info/), 
 [Mazacoin-MAZA](https://mazacoin.org)
+[Kobocoin-KOBO](http://kobocoin.com/)
+[Monacoin-MONA](https://monacoin.org/)
 ### Off the radar
 [scottcoin](https://scotcoinproject.com/) 
 [russiacoin](https://www.russiacoin.info/)
