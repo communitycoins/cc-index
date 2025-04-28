@@ -16,19 +16,19 @@ These teames actively contributed to the alliance and are considered community c
 - [Canadaecoin-CDN](https://canadaecoin.site/)
 - [Auroracoin-AUR](https://auroracoin.is/)
 - [Deutsche eMark-DEM](https://deutsche-emark.org/)
+- [Bolivarcoin-BOLI](https://bolis.info/)
+- [Sterlingcoin-SLG](https://sterlingcoin.org/)
+- [Pakcoin-PAK](https://www.pakcoin.io/)
+- [Cryptoescudo-CESC](https://cryptoescudo.pt)
 ### Endorsed by the alliance
 These teams are considered communitycoins but due to language or geographical/time distance had a hard time cooperating
-- [Cryptoescudo-CESC](https://cryptoescudo.pt)
-- [Sterlingcoin-SLG](https://sterlingcoin.org/)
-- [pakcoin-PAK](https://www.pakcoin.io/)
-- [Fujicoi-FJC](https://fujicoin.org/)
+- [Fujicoin-FJC](https://fujicoin.org/)
 - [Russian Bitcoin-RUBTC](https://russian.nationalbitcoin.org/)
 ### Contributed 
 These teams actively contributed and/or endorse community coins but the nature of their projects make them less suitable to be classified community coins. EUR because it is more about federation and NESS because it focusses on technology favoring decentralisation
 - Europecoin,
 - [Privateness Network-NESS](https://privateness.network/)
 ### In consideration 
-- [Bolicoin-BOLI](https://bolis.info/) 
 - [Mazacoin-MAZA](https://mazacoin.org)
 - [Kobocoin-KOBO](http://kobocoin.com/)
 - [Monacoin-MONA](https://monacoin.org/)
