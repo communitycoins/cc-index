@@ -1,14 +1,18 @@
 # cc-index
 
 ## Getting started
-This intends to be the central repository of all community coins by collecting information about
+This project intends to be the central repository of all community coins by collecting information about
 - their story and history
 - our subjective qualification
 - their objective parameters
 - The intended community 
 
+Most of these coins/teams/projects have been promoted/motivated by participants of the communitycoins dialog, wether on discord, twitter or telegram.
+While the communitycoins definition is unambiguously defined on communitycoins.org, several other coins bare a similar history or are simply regarded as sympathetic to the concept of community driven assets that bare the satoshi mindset of freedom, decentralisation and limited supply.
+These could at least be considered as guests and promotors of communitycoins.
+
 ## Communitycoins.org
-The Communitycoin Alliance kicked-off in may 2018 by a meeting in Lissabon between de developers of Cryptoescudo (CESC) and eGulden (EFL) and by a joint elaboration of the website communitycoins.org with a shared manifest. During the next four years the inititiative was mainly carried by the teams of eGulden, Auroracoin and Canadaecoin through weekly meetings while raiding each others communities and other teams. In 2023 Deutsche emark joined that group but the meeting frequency was reduced to allow for internal developments.
+The Communitycoin Alliance kicked-off in may 2018 by a meeting in Lissabon between de developers of Cryptoescudo (CESC) and eGulden (EFL) and by a joint elaboration of the website communitycoins.org with a shared manifest. During the next four years the inititiative was mainly carried by the teams of eGulden, Auroracoin and Canadaecoin through weekly meetings while raiding each others communities and other teams. Along the way Deutsche Emark, Pakcoin, Sterlingcoin, Bolivarcoin and Kobocoin more or less actively joined that group.
 
 ### Alliance (cc)
 These teames actively contributed to the alliance and are considered community coins
@@ -39,4 +43,9 @@ These teams actively contributed and/or endorse community coins but the nature o
 ### Guests
 These teams are selected by the participating communitycoin teams on demand.
 ### index.dat 
-[This file](index.dat) will be accessed by the communitycoin-wallet to present coin options and information
+[This file](index.dat) will be accessed by the communitycoin-wallet to present coin options and information. Wether the proposed coins become available to wallet users depends on the availability of a redundant core-wallet interface ([ROT](https://gitlab.com/c4319/wallet/rot)).
+
+The entries have three parameters: 
+- the coin tikker-symbol
+- wether the coin is considered a communitycoin, and a default asset in the communitycoins wallet [cc-wallet](https://gitlab.com/c4319/wallet/cc-wallet), or as a guest and an optional asset.
+- a proxy-server that mediates between the Ring-of-Trust ([ROT](https://gitlab.com/c4319/wallet/rot)) and the client-wallet
