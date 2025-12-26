@@ -1,4 +1,4 @@
-> > **Canonical source:** https://git.communitycoins.org/Communitycoins.Rooty/cc-index  
+> **Canonical source:** https://git.communitycoins.org/Communitycoins.Rooty/cc-index  
 > Mirrors (GitLab/GitHub) may be read-only and may lag behind.
 
 # cc-index
