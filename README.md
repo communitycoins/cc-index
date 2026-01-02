@@ -46,9 +46,9 @@ These teams actively contributed and/or endorse community coins but the nature o
 ### Guests
 These teams are selected by the participating communitycoin teams on demand.
 ### index.dat 
-[This file](index.dat) will be accessed by the communitycoin-wallet to present coin options and information. Wether the proposed coins become available to wallet users depends on the availability of a redundant core-wallet interface ([ROT](https://gitlab.com/c4319/wallet/rot)).
+[This file](proxy.dat) will be accessed by the communitycoin-wallet to present coin options and information. Wether the proposed coins become available to wallet users depends on the availability of a redundant core-wallet interface ([ROT](https://gitlab.com/c4319/wallet/rot)).
 
 The entries have three parameters: 
 - the coin tikker-symbol
-- wether the coin is considered a communitycoin, and a default asset in the communitycoins wallet [cc-wallet](https://gitlab.com/c4319/wallet/cc-wallet), or as a guest and an optional asset.
-- a proxy-server that mediates between the Ring-of-Trust ([ROT](https://gitlab.com/c4319/wallet/rot)) and the client-wallet
+- wether the coin is considered a communitycoin, and a default asset in the communitycoins wallet [cc-wallet](https://git.communitycoins.org/Multicoin-Wallets/cc-wallet), or as a guest and an optional asset.
+- a proxy-server that mediates between the Ring-of-Trust ([ROT](https://git.communitycoins.org/Rings-Of-Trust/Ring-Of-Trust-service)) and the client-wallet
