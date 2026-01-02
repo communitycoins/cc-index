@@ -45,7 +45,7 @@ These teams actively contributed and/or endorse community coins but the nature o
 - [irishcoin](http://www.irishcoin.com/)
 ### Guests
 These teams are selected by the participating communitycoin teams on demand.
-### index.dat 
+### proxy.dat 
 [This file](proxy.dat) will be accessed by the communitycoin-wallet to present coin options and information. Wether the proposed coins become available to wallet users depends on the availability of a redundant core-wallet interface ([ROT](https://gitlab.com/c4319/wallet/rot)).
 
 The entries have three parameters: 
