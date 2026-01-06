@@ -15,7 +15,13 @@ While the communitycoins definition is unambiguously defined on communitycoins.o
 These could at least be considered as guests and promotors of communitycoins.
 
 ## Communitycoins.org
-The Communitycoin Alliance kicked-off in may 2018 by a meeting in Lissabon between de developers of Cryptoescudo (CESC) and eGulden (EFL) and by a joint elaboration of the website communitycoins.org with a shared manifest. During the next four years the inititiative was mainly carried by the teams of eGulden, Auroracoin and Canadaecoin through weekly meetings while raiding each others communities and other teams. Along the way Deutsche Emark, Pakcoin, Sterlingcoin, Bolivarcoin and Kobocoin more or less actively joined that group.
+The Communitycoin Alliance kicked-off in may 2018 by a meeting in Lissabon between de developers of Cryptoescudo (CESC) and eGulden (EFL) and by a joint elaboration of the website communitycoins.org with a shared manifest. During the next four years the inititiative was mainly carried by the teams of eGulden, Auroracoin and Canadaecoin through weekly meetings while raiding each others communities and other teams. Along the way Deutsche Emark, Pakcoin, Sterlingcoin, Bolivarcoin and Kobocoin more or less actively joined that group. Although local digital denomination is the driving discrimination force, community building is the second. At this moment we recognize participants as follows:
+
+- cc: Local blockchain-based denomination that endorse communitycoins and visa versa
+- endorsed: Endorsed by communitycoins but waiting for reverse endorsement
+- foreign: Not a local blockchain-based denomination but a valuable identity (such as Bitcoin)
+- partner: A respected contact or contributor
+- zombi: Waiting to be resurrected
 
 ### Alliance (cc)
 These teames actively contributed to the alliance and are considered community coins
@@ -39,14 +45,15 @@ These teams actively contributed and/or endorse community coins but the nature o
 ### In consideration or invited 
 - [Mazacoin-MAZA](https://mazacoin.org)
 - [Monacoin-MONA](https://monacoin.org/)
-### Off the radar
+### Off the radar or Zombies
 - [scottcoin](https://scotcoinproject.com/) 
 - [russiacoin](https://www.russiacoin.info/)
 - [irishcoin](http://www.irishcoin.com/)
+- pesetacoin
 ### Guests
 These teams are selected by the participating communitycoin teams on demand.
 ### proxy.dat 
-[This file](proxy.dat) will be accessed by the communitycoin-wallet to present coin options and information. Wether the proposed coins become available to wallet users depends on the availability of a redundant core-wallet interface ([ROT](https://git.communitycoins.org/Rings-Of-Trust/Ring-Of-Trust-service)).
+[This file](proxy.dat) is the digitally accessable classification of coin options and information. Wether the presented coins become available to wallet users depends on the availability of a redundant core-wallet interface ([ROT](https://git.communitycoins.org/Rings-Of-Trust/Ring-Of-Trust-service)).
 
 The entries have three parameters: 
 - the coin tikker-symbol
